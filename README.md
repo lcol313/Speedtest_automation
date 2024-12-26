@@ -1,6 +1,6 @@
 # Speedtest_automation
 Pruebas de velocidad en varios servidores específicos y guardar los resultados en un archivo CSV.
-1. Intalar ultima vercion de python.
+1. Intalar python.
 2. Descargar los archivos correspondientes de Speedtest CLI. https://www.speedtest.net/apps/cli
 
 
